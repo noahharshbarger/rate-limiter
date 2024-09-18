@@ -92,18 +92,19 @@ Once the application is running, you can make HTTP requests to `http://localhost
 
 ```sh
 curl http://localhost:8080
+```
 
-Metrics
-Prometheus metrics are exposed at http://localhost:8080/metrics. You can visualize these metrics using the Prometheus web UI.
+### Metrics
+Prometheus metrics are exposed at `http://localhost:8080/metrics`. You can visualize these metrics using the Prometheus web UI.
 
-License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contributing
+### Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-Acknowledgements
+### Acknowledgements
 Prometheus
 Go
 
-This README provides a comprehensive overview of the application, including its features, configuration, setup instructions, usage examples, and information on how to visualize metrics using Prometheus.
+`This README provides a comprehensive overview of the application, including its features, configuration, setup instructions, usage examples, and information on how to visualize metrics using Prometheus.`
